@@ -1,0 +1,5 @@
+This is a simple editor for the cards.xml file used by Cockatrice for playing
+Magic: The Gathering.
+
+Current functionality includes editing which set artwork to use for different
+cards.
